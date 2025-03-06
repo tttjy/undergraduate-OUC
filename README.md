@@ -13,7 +13,7 @@ There are:
 
 ## Artificial Intelligence
 
-[project 1: AI-Connect](https://github.com/tttjy/undergraduate-OUC/Artificial Intelligence/project 1/)
+### project 1: AI-Connect
 ### project 2: NPuzzle
 ### project 3: Image Classification
 
