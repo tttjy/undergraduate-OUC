@@ -39,4 +39,7 @@ There are:
 ### Experiment 11 MindSpore-feedforward neural network
 ### Experiment 12 MindSpore-convolutional neural network-LeNet
 ### Big assignment: Facial recognition system based on machine learning algorithms
+
+## Software Engineering
+### Ocean University of China Psychological Counseling Cloud Platform
 </footer>
