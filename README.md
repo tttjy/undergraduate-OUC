@@ -13,6 +13,7 @@ There are:
 
 ## Artificial Intelligence
 
-### project 1:
+### project 1: AI-Connect
+### project 2: NPuzzle
 
 </footer>
