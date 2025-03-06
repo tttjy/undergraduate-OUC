@@ -13,7 +13,7 @@ There are:
 
 ## Artificial Intelligence
 
-### project 1: AI-Connect
+### project 1: AI-Connect(Artificial Intelligence/project 1)
 ### project 2: NPuzzle
 ### project 3: Image Classification
 
