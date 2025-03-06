@@ -17,7 +17,7 @@ There are:
 ### project 2: NPuzzle
 ### project 3: Image Classification
 
-## Computer Vision
+## Computer Vision (https://github.com/OUC-CV/final-project-tz/blob/main/finish/)
 
 ### 01 HDRI
 ### 02 HDR-VAM
